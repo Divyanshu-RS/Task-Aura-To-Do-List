@@ -4,7 +4,7 @@ Task Aura is a sleek and intuitive To-Do List Application designed to help you s
 <br>
 With features that allow you to effortlessly add, edit, mark as completed, and delete tasks, Task Aura ensures you stay on top of your responsibilities. Whether you're managing daily chores, work assignments, or personal goals, Task Aura offers a seamless solution to keep your task list streamlined and your life organized.
 <br>
-Proceed with professionalism and productivity. Use Task Aura to organize your everyday chores.. <a href="https://task-aura-divyanshu-rs.vercel.app/">Visit Now</a>
+Proceed with professionalism and productivity. Use Task Aura to organize your everyday chores..!! <a href="https://task-aura-divyanshu-rs.vercel.app/">Visit Now</a>
 
 ## Tech Stack
 
@@ -39,5 +39,5 @@ Task Aura, supports voice command for adding tasks effortlessly. Here's how you 
  "Add asignment due date 2nd December priority High" 
 - Example prompt for editing tasks : 
  "Edit task assignment to D "(will change the task title from assignment to D)
--Example prompt for deketing a task : 
+- Example prompt for deketing a task : 
  "Delete task assignment" 
