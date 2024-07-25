@@ -2,8 +2,8 @@
 <br>
 Task Aura is a sleek and intuitive To-Do List Application designed to help you stay organized and efficiently manage your tasks. Developed using HTML, CSS, and JavaScript, Task Aura provides a user-friendly interface that simplifies task management and enhances productivity.
 <br>
-With features that allow you to effortlessly add, edit, mark as completed, and delete tasks, Task Aura ensures you stay on top of your responsibilities. Whether you're managing daily chores, work assignments, or personal goals, Task Aura offers a seamless solution to keep your task list streamlined and your life organized.
-<br>
+With features that allow you to effortlessly add, edit, mark as completed, and delete tasks, Task Aura ensures you stay on top of your responsibilities. Whether you're managing daily chores, work assignments, or personal goals, Task Aura offers a seamless solution to keep your task list streamlined and your life organized. <br>
+
 Proceed with professionalism and productivity. Use Task Aura to organize your everyday chores..!! <a href="https://task-aura-divyanshu-rs.vercel.app/">Visit Now</a>
 <br> <br>
 
