@@ -35,9 +35,9 @@ Task Aura, supports voice command for adding tasks effortlessly. Here's how you 
  2. Wait for the application to start listening
  3. Clearly state your task, due date and priority.
 
-Example prompt for adding task using voice command :
+- Example prompt for adding task using voice command :
  "Add asignment due date 2nd December priority High" 
-Example prompt for editing tasks : 
- "Edit task assignment to D "(will change the task title from assignment to D)" 
-Example prompt for deketing a task : 
+- Example prompt for editing tasks : 
+ "Edit task assignment to D "(will change the task title from assignment to D)
+-Example prompt for deketing a task : 
  "Delete task assignment" 
